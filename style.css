@@ -13,11 +13,12 @@
  body {
     padding: 0;
     margin: 0;
-    background-color: white;
+    background-color: green;
     font-family: "source-sans-pro", sans-serif;
     font-size: 1rem;
     font-weight: 300;
     line-height: 1.5;
+    text-align: left
 }
 
 #stage {
